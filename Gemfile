@@ -8,6 +8,7 @@ gem 'sqlite3'
 gem 'simple_form', '~> 3.1.0'
 gem 'devise', '~> 3.4.1'
 gem 'paperclip', '~> 4.2.1'
+gem 'acts_as_votable', '~> 0.10.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
